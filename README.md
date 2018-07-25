@@ -4,10 +4,6 @@ WCCI Project:
 
 First iteration of halalbites.com; a website created for foodies who prefer to adhere to a halal/zabihah diet. 
 
-## Overview
-
-Return to your reviews site from the [previous exercise](../reviews-site) (or create another). All requirements from the previous project still apply. If these aren't present, you will lose points.
-
 ## Project Tasks
 
 Feel free to use appropriate class names other than `Review` and `Category`, but these instructions will refer to `Review` and `Category`.
